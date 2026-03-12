@@ -221,14 +221,14 @@ Your app will launch at `http://localhost:7860` — and a shareable public URL w
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Aashish-Chandrin">
-        <img src="https://github.com/Aashish-Chandrin.png" width="100px;" style="border-radius:50%" alt="Aashish-Chandrin"/>
+      <a href="https://github.com/Aashish-Chandr">
+        <img src="https://github.com/Aashish-Chandr.png" width="100px;" style="border-radius:50%" alt="Aashish-Chandrin"/>
         <br />
-        <sub><b>Aashish-Chandrin</b></sub>
+        <sub><b>Aashish-Chandr</b></sub>
       </a>
       <br/>
-      <a href="https://github.com/Aashish-Chandrin">
-        <img src="https://img.shields.io/badge/GitHub-Aashish--Chandrin-181717?style=flat-square&logo=github"/>
+      <a href="https://github.com/Aashish-Chandr">
+        <img src="https://img.shields.io/badge/GitHub-Aashish--Chandr-181717?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
